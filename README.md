@@ -3,7 +3,7 @@
 Welcome to my portfolio! This repository showcases various projects and skills developed throughout my journey as a software engineer. It includes a selection of work that highlights my capabilities in full-stack development, demonstrating both frontend and backend expertise. Experience some of my projects in action by visiting [Live Demo](learnhub-seven.vercel.app/). 
 
 **Okello Kevin**  
-- LinkedIn: [Okello Kevin](linkedin.com/in/okello-kevin/)  
+- LinkedIn: [Okello Kevin](linkedin.com/in/
 - GitHub: [Okello Kevin](https://github.com/Aellun)
 
 ## Projects
