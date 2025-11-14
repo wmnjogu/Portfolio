@@ -4,8 +4,8 @@ Welcome to my portfolio! This repository showcases my professional journey as an
 
 **William Mwangi Njogu**  
 - Email: [njoguwilliam91@gmail.com](mailto:njoguwilliam91@gmail.com)
-- LinkedIn: [William Mwangi Njogu](https://www.linkedin.com/in/william-njogu)
-- GitHub: [William Njogu](https://github.com/Aellun)
+- LinkedIn: [William Njogu](https://www.linkedin.com/in/william-njogu)
+- GitHub: [William Njogu](https://github.com/wmnjogu)
 - Phone: +254708747238
 - Location: Nairobi, Kenya
 
@@ -56,8 +56,8 @@ To run this portfolio locally, follow these steps:
 
 1. **Clone the repository:**  
    ```sh  
-   git clone https://github.com/Aellun/my_portfolio.git  
-   cd my_portfolio  
+   git clone https://github.com/wmnjogu/Portfolio.git  
+   cd Portfolio  
    ```
 
 2. **Create a virtual environment and activate it:**
@@ -92,6 +92,6 @@ Feel free to provide feedback or suggestions! You can contribute by submitting i
 For inquiries or collaboration opportunities, feel free to reach out:
 - Email: njoguwilliam91@gmail.com
 - Phone: +254708747238
-- LinkedIn: [William Mwangi Njogu](https://www.linkedin.com/in/william-njogu)
+- LinkedIn: [William Njogu](https://www.linkedin.com/in/william-njogu)
 
 Thank you for visiting my portfolio!
